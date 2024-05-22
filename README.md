@@ -1,5 +1,4 @@
-# 헬멧감지 시스템 yolov3
-# openCV를 사용해 실시간 웹캠 스트림으로 사용가능
+# Helmet_Detection_YoloV3_with_webcamStream
 
 
 #### 파일링크 
